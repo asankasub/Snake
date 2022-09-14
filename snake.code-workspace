@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\pong"
+		},
+		{
+			"path": "..\\turtle_crossing"
+		}
+	],
+	"settings": {}
+}
